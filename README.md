@@ -1,4 +1,8 @@
 ## Introduction
+Ventcha: 8th July
+Assignment 1 files added, comprising 5 .R scripts and 4 PNG plots. The 5 .R files include 4 for the creation of the plots, and a single, common, function loadSampleEnergyData.R that handles the loading and sampling of the data, used by the four Plotn.R files.
+
+<b>END</b>
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
