@@ -1,6 +1,8 @@
 ## Introduction
 Ventcha: 8th July
 Assignment 1 files added, comprising 5 .R scripts and 4 PNG plots. The 5 .R files include 4 for the creation of the plots, and a single, common, function loadSampleEnergyData.R that handles the loading and sampling of the data, used by the four Plotn.R files.
+11th July: minor update to the common function to load the data (utilising colClasses() with the is.na = "?"). No material differences to the plots.
+Plots are in the 'root' here rather than in the figure subfolder.
 
 <b>END</b>
 
